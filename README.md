@@ -1,6 +1,14 @@
 ### Hi there 👋
 
 I'm Josh.
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoshDev&title_color=6699cc&bg_color=2d2d2d&text_color=d3d0c8" alt="GitHub stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshDev&title_color=6699cc&bg_color=2d2d2d&text_color=d3d0c8&layout=compact" alt="Top Langs" />
+</a>
+
 <!--
 **JoshDev/JoshDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
