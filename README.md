@@ -2,6 +2,7 @@
 
 I'm Josh.
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoshDev&theme=gruvbox)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoshDev&title_color=6699cc&bg_color=2d2d2d&text_color=d3d0c8" alt="GitHub stats" />
 </a>
