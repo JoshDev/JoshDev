@@ -106,10 +106,6 @@ interests:
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JoshDev/JoshDev/main/metrics.svg" alt="Metrics" />
-</p>
-
-<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoshDev&theme=gruvbox" />
 </p>
 
@@ -121,27 +117,4 @@ interests:
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoshDev&theme=gruvbox" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshDev&theme=gruvbox&hide_border=true" />
-</p>
-
----
-
-### Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-### Featured Projects
-
-<p align="center">
-  <a href="https://github.com/JoshDev/dotfiles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshDev&repo=dotfiles&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Happy coding!</i>
 </p>
