@@ -28,6 +28,32 @@
 
 ---
 
+### Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JoshDev/JoshDev/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoshDev&theme=gruvbox" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoshDev&theme=gruvbox" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoshDev&theme=gruvbox&utcOffset=-6" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoshDev&theme=gruvbox" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshDev&theme=gruvbox&hide_border=true" />
+</p>
+
+---
+
 ### About Me
 
 ```yaml
@@ -95,24 +121,6 @@ interests:
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoshDev&theme=gruvbox" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoshDev&theme=gruvbox" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoshDev&theme=gruvbox&utcOffset=-6" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoshDev&theme=gruvbox" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshDev&theme=gruvbox&hide_border=true" />
-</p>
-
----
-
 ### Recent Activity
 
 <!--START_SECTION:activity-->
@@ -126,14 +134,6 @@ interests:
   <a href="https://github.com/JoshDev/dotfiles">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshDev&repo=dotfiles&theme=gruvbox&hide_border=true" />
   </a>
-</p>
-
----
-
-### Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JoshDev/JoshDev/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
