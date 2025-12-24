@@ -1,0 +1,13 @@
+# Labels PRs based on files changed
+
+documentation:
+  - changed-files:
+    - any-glob-to-any-file: ['*.md', 'docs/**']
+
+workflows:
+  - changed-files:
+    - any-glob-to-any-file: ['.github/**']
+
+config:
+  - changed-files:
+    - any-glob-to-any-file: ['*.yml', '*.yaml', '*.json', '*.toml']
