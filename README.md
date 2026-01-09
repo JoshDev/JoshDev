@@ -54,51 +54,6 @@ interests:
 
 ---
 
-### Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Data & Infrastructure**
-<p>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white" />
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=black" />
-</p>
-
-</td>
-<td valign="top" width="33%">
-
-**Languages**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" />
-</p>
-
-</td>
-<td valign="top" width="33%">
-
-**Environment**
-<p>
-<img src="https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
-<img src="https://img.shields.io/badge/i3wm-2E7D32?style=flat-square&logo=i3&logoColor=white" />
-<img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
-<img src="https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white" />
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
 ### GitHub Stats
 
 <p align="center">
