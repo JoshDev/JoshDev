@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FABD2F&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Josh+Dev+%F0%9F%91%8B;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" />
