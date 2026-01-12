@@ -41,15 +41,6 @@ roles:
   - Data Engineer
   - DevOps Engineer
   - Infrastructure Architect
-currently:
-  - Building data pipelines with Spark & AWS
-  - Designing scalable ETL architectures
-  - Automating everything with AI agents
-environment: Arch Linux + i3wm (performance-focused, keyboard-driven)
-interests:
-  - Smart home automation with Home Assistant
-  - Self-hosting & homelabs
-  - Automating life, not just code
 ```
 
 ---
